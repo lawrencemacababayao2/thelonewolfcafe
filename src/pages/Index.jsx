@@ -71,12 +71,12 @@ const Index = () => {
 
                 <div className='hidden md:block text-center w-[40%] p-20'></div>
 
-                <div className="hidden md:block md:w-170 md:h-85 lg:w-210 lg:h-75 [clip-path:polygon(100%_0%,0%_0%,50%_100%)] absolute right-0 bg-[url(./polygonbg1.jpg)] bg-cover bg-center"></div>
-                <div className="hidden md:block md:w-80 md:h-full lg:w-100 lg:h-full [clip-path:polygon(100%_0%,0%_50%,100%_100%)] absolute right-0 top-0 bg-[url(./polygonbg2.jpg)] bg-cover"></div>
-                <div className="hidden md:block md:w-170 md:h-85 lg:w-210 lg:h-75 bg-[#660000] [clip-path:polygon(0%_100%,50%_0%,100%_100%)] absolute right-0 bottom-0 bg-[url(./polygonbg3.jpg)] bg-cover bg-center"></div>
+                <div className="hidden md:block md:w-170 md:h-85 lg:w-210 lg:h-75 [clip-path:polygon(100%_0%,0%_0%,50%_100%)] absolute right-0 bg-[url(/polygonbg1.jpg)] bg-cover bg-center"></div>
+                <div className="hidden md:block md:w-80 md:h-full lg:w-100 lg:h-full [clip-path:polygon(100%_0%,0%_50%,100%_100%)] absolute right-0 top-0 bg-[url(/polygonbg2.jpg)] bg-cover"></div>
+                <div className="hidden md:block md:w-170 md:h-85 lg:w-210 lg:h-75 bg-[#660000] [clip-path:polygon(0%_100%,50%_0%,100%_100%)] absolute right-0 bottom-0 bg-[url(/polygonbg3.jpg)] bg-cover bg-center"></div>
             </section>
 
-            <section id='sect4' className='w-full h-full bg-[url(./sect4bg.jpg)] bg-cover bg-center text-[#fefaee]'>
+            <section id='sect4' className='w-full h-full bg-[url(/sect4bg.jpg)] bg-cover bg-center text-[#fefaee]'>
                 <div className='bg-black/50 w-full h-full flex flex-col items-center p-10 text-center justify-center gap-15 py-20 md:py-40'>
                     <h2 className='text-4xl md:text-4xl lg:text-4xl font-gideon text-[#FAE1B9]'>Visit Us</h2>
                     <h3 className='text-2xl md:text-2xl lg:text-4xl font-gideon'>Search for our locations to experience the best handcrafted coffee</h3>
