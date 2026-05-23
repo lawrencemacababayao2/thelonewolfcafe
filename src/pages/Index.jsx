@@ -58,7 +58,7 @@ const Index = () => {
                 </div>
             </section>
 
-            <section id='sect3' className='w-full h-160 md:h-180 lg:h-160 bg-[url(./sect3bg.png)] bg-cover text-[#fefaee] flex relative'>
+            <section id='sect3' className='w-full h-160 md:h-180 lg:h-160 bg-[url(/sect3bg.png)] bg-cover text-[#fefaee] flex relative'>
                 <div className='text-center flex flex-col gap-10 justify-center items-center flex-1 p-20'>
                     <h2 className='md:text-2xl lg:text-4xl text-4xl font-times text-[#FAE1B9]'>Warped and carefully crafted...
                         and hidden in the hustle and bustle of the city.
