@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font-gideon {
+  font-family: 'Gideon Roman', serif;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font-times {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+  .scroll-line {
+    width: 1px;
+    height: 48px;
+    background: #FEFAEE;
+    animation: scrollAnim 1.8s ease-in-out infinite;
+    transform-origin: top;
+  }
+ 
+  @keyframes scrollAnim {
+    0%, 100% { transform: scaleY(0); opacity: 0; transform-origin: top; }
+    40% { transform: scaleY(1); opacity: 1; transform-origin: top; }
+    60% { transform: scaleY(1); opacity: 1; transform-origin: bottom; }
+    100% { transform: scaleY(0); opacity: 0; transform-origin: bottom; }
+  }
+
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-slide {
+  display: flex;
+  width: max-content;
+  animation: slide 30s linear infinite;
+  will-change: transform;
+}
