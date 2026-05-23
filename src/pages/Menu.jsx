@@ -5,28 +5,28 @@ const Menu = () => {
 
   const coffeeData = {
     BestSeller: [
-      { title: "Cappuccino", desc: "A rich, creamy coffee topped with soft foam.", img: "/coffee1.jpg" },
-      { title: "Truffle Pasta", desc: "A savory dish of tender noodles in flavorful sauce.", img: "/pasta.jpg" },
-      { title: "Red Iberian Berry", desc: "A bright, juicy blend bursting with berry flavor.", img: "/Red.jpg" },
-      { title: "Chocolate Waffles", desc: "Crispy waffles drizzled with rich chocolate.", img: "/polygonbg2.jpg" },
+      { title: "Cappuccino", desc: "A rich, creamy coffee topped with soft foam.", img: "coffee1.jpg" },
+      { title: "Truffle Pasta", desc: "A savory dish of tender noodles in flavorful sauce.", img: "pasta.jpg" },
+      { title: "Red Iberian Berry", desc: "A bright, juicy blend bursting with berry flavor.", img: "Red.jpg" },
+      { title: "Chocolate Waffles", desc: "Crispy waffles drizzled with rich chocolate.", img: "polygonbg2.jpg" },
     ],
     Coffee: [
-      { title: "Americano", desc: "Smooth espresso with a clean, bold finish.", img: "/americano.jpg" },
-      { title: "Cappuccino", desc: "A rich, creamy coffee topped with soft foam.", img: "/coffee3.jpg" },
-      { title: "Spanish Latte", desc: "Creamy coffee with a sweet, silky twist.", img: "/latte1.jpg" },
-      { title: "Caramel Machiato", desc: "Rich espresso layered with sweet caramel.", img: "/caramel.jpg" },
+      { title: "Americano", desc: "Smooth espresso with a clean, bold finish.", img: "americano.jpg" },
+      { title: "Cappuccino", desc: "A rich, creamy coffee topped with soft foam.", img: "coffee3.jpg" },
+      { title: "Spanish Latte", desc: "Creamy coffee with a sweet, silky twist.", img: "latte1.jpg" },
+      { title: "Caramel Machiato", desc: "Rich espresso layered with sweet caramel.", img: "caramel.jpg" },
     ],
     Refreshers: [
-      { title: "Red Iberian Berry", desc: "A bright, juicy blend bursting with berry flavor.", img: "/Red.jpg" },
-      { title: "Classic Ice Tea", desc: "Cool, crisp tea with a refreshing taste.", img: "/clasic_icetea.jpg" },
-      { title: "Iced caramel macchiato", desc: "Chilled coffee with creamy caramel goodness.", img: "/caramel2.jpg" },
-      { title: "Tropical Himalayan", desc: "A refreshing tropical blend with a cool twist.", img: "/himalayan.jpg" },
+      { title: "Red Iberian Berry", desc: "A bright, juicy blend bursting with berry flavor.", img: "Red.jpg" },
+      { title: "Classic Ice Tea", desc: "Cool, crisp tea with a refreshing taste.", img: "clasic_icetea.jpg" },
+      { title: "Iced caramel macchiato", desc: "Chilled coffee with creamy caramel goodness.", img: "caramel2.jpg" },
+      { title: "Tropical Himalayan", desc: "A refreshing tropical blend with a cool twist.", img: "himalayan.jpg" },
     ],
     Frappes: [
-      { title: "Creme De Banana", desc: "Smooth, creamy taste with banana bliss.", img: "/cremedebanana.jpg" },
-      { title: "Mixed-Berries", desc: "A bright blend of sweet and tangy berries.", img: "/berries.jpg" },
-      { title: "Cookies & Cream", desc: "Rich cream with crunchy cookie bites.", img: "/cookies.jpg" },
-      { title: "Matcha", desc: "A smooth, icy matcha with a refreshing finish.", img: "/matcha.jpg" },
+      { title: "Creme De Banana", desc: "Smooth, creamy taste with banana bliss.", img: "cremedebanana.jpg" },
+      { title: "Mixed-Berries", desc: "A bright blend of sweet and tangy berries.", img: "berries.jpg" },
+      { title: "Cookies & Cream", desc: "Rich cream with crunchy cookie bites.", img: "cookies.jpg" },
+      { title: "Matcha", desc: "A smooth, icy matcha with a refreshing finish.", img: "matcha.jpg" },
     ],
   };
 
