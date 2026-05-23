@@ -6,17 +6,17 @@ const Index = () => {
         <div>
             <section
                 id='sect1'
-                className="relative w-full h-full bg-[url(./sect1_bg.png)] bg-cover grid grid-cols-1 md:grid-cols-2
+                className="relative w-full h-full bg-[url(/sect1_bg.png)] bg-cover grid grid-cols-1 md:grid-cols-2
                     before:absolute before:inset-0
                     before:pointer-events-none
                     before:bg-[linear-gradient(to_bottom,rgba(0,0,0,0.8),transparent_60%)]
                     md:before:bg-[linear-gradient(to_left,rgba(0,0,0,0.9),transparent_40%)] py-20">
                 <div className='flex flex-col justify-center items-center p-10 md:p-20 text-[#fefaee] text-center gap-10 order-2 md:order-1'>
-                    <h2 className='text-xl md:text-3xl lg:text-4xl font-gideon'>“Sometimes the best places in the city aren’t the loudest ones — they’re the ones quietly waiting to be discovered. ”</h2>
+                    <h2 className='text-xl md:text3xl lg:text-4xl font-gideon'>“Sometimes the best places in the city aren’t the loudest ones — they’re the ones quietly waiting to be discovered. ”</h2>
                     <button className='bg-[#660000] w-50 py-3 rounded-lg drop-shadow-lg/40 cursor-pointer drop-shadow-black hover:bg-[#7d0303] transition duration-200'>View More</button>
                 </div>
                 <div className='flex justify-center items-center order-1 md:order-2'>
-                    <img src="cvhb.png" alt="" className='w-80 md:w-110 lg:w-130' />
+                    <img src="/cvhb.png" alt="" className='w-80 md:w-110 lg:w-130' />
                 </div>
             </section>
 

@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className='bg-[#660000] w-full h-20 grid grid-cols-2 px-10 lg:px-15 drop-shadow-lg/50 drop-shadow-black fixed top-0 z-99'>
       <div className='w-full h-full flex items-center'>
-        <img src="/logohd.png" alt="" className='w-16' />
+        <img src="./logohd.png" alt="" className='w-16' />
         <h1 className='text-[#fefaee] font-gideon text-3xl hidden lg:block'>THE LONEWOLF CAFE</h1>
       </div>
       <div className='w-full h-full flex items-center justify-end'>
