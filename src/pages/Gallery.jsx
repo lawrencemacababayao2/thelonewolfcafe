@@ -4,7 +4,7 @@ const data = [
   {
     id: 1,
     category: "Coffee",
-    img: "/coffee2.jpg",
+    img: "coffee2.jpg",
   },
   {
     id: 2,
@@ -14,7 +14,7 @@ const data = [
   {
     id: 3,
     category: "People",
-    img: "/polygonbg1.jpg",
+    img: "polygonbg1.jpg",
   },
   {
     id: 4,
@@ -24,7 +24,7 @@ const data = [
   {
     id: 5,
     category: "Latte-art",
-    img: "/caramel.jpg",
+    img: "caramel.jpg",
   },
   {
     id: 6,

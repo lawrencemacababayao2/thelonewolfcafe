@@ -5,7 +5,7 @@ const Footer = () => {
         <div className='bg-[#660000] w-full h-full p-5 lg:p-20 pt-5'>
             <div className='w-full h-3/3 grid sm:grid-cols-1 md:grid-cols-4 text-[#fefaee]'>
                 <div className='flex justify-center'>
-                    <img src="/logohd.png" alt="" className='w-30 md:w-full object-cover' />
+                    <img src="./logohd.png" alt="" className='w-30 md:w-full object-cover' />
                 </div>
                 <div className='p-10 md:p-15 flex flex-col gap-10 lg:gap-15'>
                     <div className='flex flex-col gap-2 items-center md:items-baseline'>

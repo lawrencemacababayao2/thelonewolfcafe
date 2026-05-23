@@ -17,7 +17,7 @@ const Contact = () => {
         </div>
         <div className=' border-b border-[#660000] py-20 px-5 lg:flex justify-center hidden'>
           <div className='w-[50%] h-full bg-[#660000] flex flex-col justify-end p-7 gap-2 relative'>
-            <img src="/logohd.png" alt="" className='w-40 absolute top-10 right-25' />
+            <img src="./logohd.png" alt="" className='w-40 absolute top-10 right-25' />
             <i class="bi bi-quote text-[#fefaee]/80"></i>
                                               <p className='text-[#fefaee]/80 italic font-times text-xs w-50 tracking-widest'>We reply to every message, usually within one working day.</p>
             <p className='uppercase tracking-widest text-[#FAE1B9] text-xs'>our promise</p>

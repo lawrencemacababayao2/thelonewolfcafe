@@ -28,8 +28,8 @@ const About = () => {
                 </div>
                 <div className='pt-20 p-25 justify-center h-full hidden md:block'>
                     <div className='relative w-full min-h-120'>
-                        <img src="/aboutBG.jpg" alt="" className='w-full absolute md:right-10 md:bottom-10 lg:right-15 lg:bottom-15 rounded-lg' />
-                        <img src="/aboutBG.jpg" alt="" className='w-full absolute md:right-0 md:bottom-0 lg:right-5 lg:bottom-5 rounded-lg' />
+                        <img src="./aboutBG.jpg" alt="" className='w-full absolute md:right-10 md:bottom-10 lg:right-15 lg:bottom-15 rounded-lg' />
+                        <img src="./aboutBG.jpg" alt="" className='w-full absolute md:right-0 md:bottom-0 lg:right-5 lg:bottom-5 rounded-lg' />
                     </div>
 
                 </div>

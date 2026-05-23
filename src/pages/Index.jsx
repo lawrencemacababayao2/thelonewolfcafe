@@ -16,7 +16,7 @@ const Index = () => {
                     <button className='bg-[#660000] w-50 py-3 rounded-lg drop-shadow-lg/40 cursor-pointer drop-shadow-black hover:bg-[#7d0303] transition duration-200'>View More</button>
                 </div>
                 <div className='flex justify-center items-center order-1 md:order-2'>
-                    <img src="/cvhb.png" alt="" className='w-80 md:w-110 lg:w-130' />
+                    <img src="./cvhb.png" alt="" className='w-80 md:w-110 lg:w-130' />
                 </div>
             </section>
 
